@@ -2,4 +2,8 @@
 Hello World!
 =======
 Line number 1
+<<<<<<< HEAD
+>>>>>>> stakhniak
+=======
+Line number 2
 >>>>>>> stakhniak
